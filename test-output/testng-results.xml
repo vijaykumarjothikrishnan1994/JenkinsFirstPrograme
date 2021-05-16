@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-05-16T12:05:40 IST" name="Default suite" finished-at="2021-05-16T12:05:40 IST" duration-ms="68">
+  <suite started-at="2021-05-16T20:33:38 IST" name="Default suite" finished-at="2021-05-16T20:34:38 IST" duration-ms="59898">
     <groups>
     </groups>
-    <test started-at="2021-05-16T12:05:40 IST" name="Default test" finished-at="2021-05-16T12:05:40 IST" duration-ms="68">
+    <test started-at="2021-05-16T20:33:38 IST" name="Default test" finished-at="2021-05-16T20:34:38 IST" duration-ms="59898">
       <class name="com.project.com.runmyfirsttestonjenkins.MyTestJenkins">
-        <test-method signature="RunPom()[pri:0, instance:com.project.com.runmyfirsttestonjenkins.MyTestJenkins@7c83dc97]" started-at="2021-05-16T12:05:40 IST" name="RunPom" finished-at="2021-05-16T12:05:40 IST" duration-ms="14" status="PASS">
+        <test-method signature="RunPom()[pri:0, instance:com.project.com.runmyfirsttestonjenkins.MyTestJenkins@2525ff7e]" started-at="2021-05-16T20:33:38 IST" name="RunPom" finished-at="2021-05-16T20:34:38 IST" duration-ms="59838" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RunPom -->
